@@ -1086,6 +1086,8 @@ This version of Dialog now requires version 1.1 of the Å-machine.
 		Z-machine backend: ASCII fallbacks for en-dash, em-dash, and
 		three kinds of fancy quotes.
 
+		Compiler: Added support for creating Z5 blorb files (-t z5blorb).
+
 ### 0f/06 Lib 0.23 (Manual revision 9):
 
 		Bugfix: Removed a case where the Z-machine backend would
